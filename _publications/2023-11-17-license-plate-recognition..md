@@ -3,7 +3,7 @@ title: "Deep Representation Learning for License Plate Recognition in Low Qualit
 collection: publications
 permalink: /publication/2023-license-plate-recognition
 excerpt: 'This paper is about license plate recognition.'
-date: 2023
+date: 2023-11-17
 venue: 'ISVC'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-47966-3_16'
 citation: 'Zhao, K., Peng, L., Ding, N., et al. Deep Representation Learning for License Plate Recognition in Low Quality
