@@ -1,7 +1,7 @@
 ---
-title: "Deep Representation Learning for License Plate Recognition in Low Quality Video Images."
+title: "Deep Representation Learning for License Plate Recognition in Low Quality Video Images"
 collection: publications
-permalink: /publication/2023-license-plate-recognition
+permalink: /publication/2023-11-17-license-plate-recognition
 excerpt: 'This paper is about license plate recognition.'
 date: 2023-11-17
 venue: 'ISVC'

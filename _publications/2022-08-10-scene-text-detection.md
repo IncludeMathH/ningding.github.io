@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Self-attention Mechanism and Multi-task Learning into Scene Text Detection"
 collection: publications
-permalink: /publication/2022-scene-text-detection
+permalink: /publication/2022-08-10-scene-text-detection
 excerpt: 'This paper is about scene text detection.'
 date: 2022-08-10
 venue: 'ECCV workshop'
