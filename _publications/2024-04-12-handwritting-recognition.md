@@ -1,9 +1,9 @@
 ---
 title: "Visual Prompt Learning for Chinese Handwriting Recognition"
 collection: publications
-permalink: /publication/2023-license-plate-recognition
-excerpt: 'This paper is about license plate recognition.'
-date: 2023-11-17
+permalink: /publication/2024-04-12-handwritting-recognition
+excerpt: 'This paper is about handwritting-text recognition.'
+date: 2024-04-12
 venue: 'ICDAR 2024'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-47966-3_16'
 citation: 'Yao, G., Ding, N., Zhao, T., et al. Visual Prompt Learning for Chinese Handwriting Recognition. In International Conference on Document Analysis and Recognition, 2024.'

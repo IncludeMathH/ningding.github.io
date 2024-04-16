@@ -1,9 +1,9 @@
 ---
-title: "Visual Prompt Learning for Chinese Handwriting Recognition"
+title: "Geometric-aware control in diffusion model for handwritten Chinese font generation"
 collection: publications
-permalink: /publication/2023-license-plate-recognition
-excerpt: 'This paper is about license plate recognition.'
-date: 2023-11-17
+permalink: /publication/2024-04-12-generation
+excerpt: 'This paper is about text generation by using diffusion models.'
+date: 2024-04-12
 venue: 'ICDAR 2024'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-47966-3_16'
 citation: 'Yao, G., Zhao, K., Deng C., et al. Geometric-aware control in diffusion model for handwritten Chinese font generation. In International Conference on Document Analysis and Recognition, 2024.'
